@@ -1,0 +1,15 @@
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/bin/Debug/net8.0/CSharpDeepDive
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/bin/Debug/net8.0/CSharpDeepDive.deps.json
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/bin/Debug/net8.0/CSharpDeepDive.runtimeconfig.json
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/bin/Debug/net8.0/CSharpDeepDive.dll
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/bin/Debug/net8.0/CSharpDeepDive.pdb
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.GeneratedMSBuildEditorConfig.editorconfig
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.AssemblyInfoInputs.cache
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.AssemblyInfo.cs
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.csproj.CoreCompileInputs.cache
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.sourcelink.json
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.dll
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/refint/CSharpDeepDive.dll
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.pdb
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/CSharpDeepDive.genruntimeconfig.cache
+/home/neo/Desktop/CSharpDeepDive/CSharpDeepDive/obj/Debug/net8.0/ref/CSharpDeepDive.dll
