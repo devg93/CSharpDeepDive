@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpDeepDive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caabc8a9d8e0d657fdfe1f71fc4b3196d79b04c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ca5df08ff953cef26c698c5f5c799fb61b6c37")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpDeepDive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpDeepDive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
